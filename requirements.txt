@@ -1,7 +1,7 @@
 streamlit
+joblib
 sentence-transformers
 scikit-learn
 imbalanced-learn
-joblib
 matplotlib
 seaborn
